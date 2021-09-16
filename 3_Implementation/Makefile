@@ -2,7 +2,7 @@ PROJ_NAME = HeatedSeats
 
 BUILD_DIR = Build
 
-SRC = SeatHeatingApp.c\
+SRC = main.c\
 src/a1.c\
 src/a2.c\
 src/a3.c\

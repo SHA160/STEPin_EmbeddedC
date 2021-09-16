@@ -1,5 +1,6 @@
 **My Code Inspector Stats**
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/57df762a939f40d8ad61b330c43560ab)](https://app.codacy.com/gh/SHA160/STEPin_EmbeddedC?utm_source=github.com&utm_medium=referral&utm_content=SHA160/STEPin_EmbeddedC&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://www.code-inspector.com/project/28769/score/svg)](https://www.codacy.com/gh/SHA160/STEPin_EmbeddedC/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SHA160/STEPin_EmbeddedC&amp;utm_campaign=Badge_Grade)
 <a>
 <img src="https://www.code-inspector.com/project/28769/status/svg">
